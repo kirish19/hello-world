@@ -1,2 +1,4 @@
 # hello-world
-First step on the journey
+
+I am Kirish! I love coffee and pasta. True Italian in heart.
+Pleased to meet ya'll.
